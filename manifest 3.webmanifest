@@ -1,5 +1,5 @@
 {
-  "name": "Clutch Équipe", "short_name": "Clutch Équipe", "description": "Outil de l'équipe Clutch",
+  "name": "Minko Équipe", "short_name": "Minko Équipe", "description": "Outil de l'équipe Minko",
   "start_url": "./", "scope": "./", "display": "standalone", "orientation": "portrait",
   "background_color": "#F7F3F5", "theme_color": "#532943", "lang": "fr",
   "icons": [
